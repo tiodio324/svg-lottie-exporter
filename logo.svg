@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SVG Lottie Exporter">
+  <defs>
+    <linearGradient id="logo-bg" x1="6" y1="0" x2="58" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD4BC"/>
+      <stop offset=".22" stop-color="#FF8A4C"/>
+      <stop offset=".55" stop-color="#FF5A1F"/>
+      <stop offset="1" stop-color="#9A2208"/>
+    </linearGradient>
+    <linearGradient id="logo-sheen" x1="12" y1="4" x2="40" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE8DC" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#FFE8DC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="logo-front" x1="24" y1="14" x2="50" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F4"/>
+      <stop offset="1" stop-color="#FFD1C2"/>
+    </linearGradient>
+    <linearGradient id="logo-back" x1="16" y1="16" x2="40" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC4A8"/>
+      <stop offset="1" stop-color="#FF8A4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#logo-bg)"/>
+  <path fill="url(#logo-sheen)" d="M16 6h32a10 10 0 0 1 10 10v10C50 14 34 8 12 16V16A10 10 0 0 1 16 6z"/>
+  <path fill="url(#logo-back)" d="M17 18h9.2L42 32 26.2 46H17l15.8-14L17 18z"/>
+  <path fill="url(#logo-front)" d="M28.5 18H38L54 32 38 46h-9.5L44.2 32 28.5 18z"/>
+  <circle cx="46.5" cy="18.5" r="4.2" fill="#FFF3EC"/>
+  <circle cx="46.5" cy="18.5" r="1.9" fill="#FF5A1F"/>
+</svg>
